@@ -1,5 +1,3 @@
-<div align="center">
-
 # CritHit Software
 
 **Инженерные решения и программная экосистема нового поколения**
@@ -19,6 +17,7 @@
 **Высокопроизводительный игровой клиент и менеджер сборок Minecraft**  
 Разработан на базе нативного ядра Rust и интерфейсной платформы Tauri для обеспечения минимального времени отклика и максимальной надежности.
 
+<div align="center">
 <br />
 
 <img src="https://crithitlauncher.com/assets/app_dov-in7471lP.png" alt="CritHit Launcher Interface" width="65%" />
