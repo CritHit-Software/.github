@@ -21,7 +21,7 @@
 
 <br />
 
-<img src="https://crithitlauncher.com/assets/app_dov-in7471lP.png" alt="CritHit Launcher Interface" width="92%" />
+<img src="https://crithitlauncher.com/assets/app_dov-in7471lP.png" alt="CritHit Launcher Interface" width="65%" />
 
 <br />
 
