@@ -1,6 +1,5 @@
-<br />
 <img src="https://crithitlauncher.com/download/logo/LogoBar-CritHit-Launcher.png" alt="CritHit Software" width="420" />
-<br /><br />
+<br /
 
 **Инженерные решения и программная экосистема нового поколения**
 
